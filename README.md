@@ -1,6 +1,5 @@
 # Prodigy DS task 02
 🚢 Titanic Dataset – Data Cleaning & Exploratory Data Analysis
-EDA | Data Cleaning | Python | Kaggle Dataset
 
 🔍 Project Summary
 Dove deep into the Titanic dataset from Kaggle to perform comprehensive data cleaning and exploratory data analysis (EDA). This project reveals the hidden stories behind the data—uncovering patterns, correlations, and outliers that set the stage for informed decision-making and predictive modeling.
